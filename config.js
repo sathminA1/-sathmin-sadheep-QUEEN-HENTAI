@@ -49,7 +49,7 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = '💝 Queen Hentai 💝'
 global.premium = 'true'
-global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
+global.packname = '💝 Queen Hentai 💝 Created By 💝 sathmin  Official²⁰²³ 💝' 
 global.author = '💝 🇸‌🇦‌🇹‌🇭‌🇲‌🇮‌🇳‌‌ boy 💝' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Dinuwa Official²⁰²³\n' 
 global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
@@ -60,7 +60,7 @@ global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg'
 
 
 global.wait = '*💝 _පොඩ්ඩක් ඉදහන්📡 💝 Queen Hentai 💝..._*'
-global.rwait = '🇱🇰'
+global.rwait = '📡'
 global.dmoji = '🤣'
 global.done = '👍'
 global.error = '👎' 
